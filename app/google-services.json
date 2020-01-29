@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "770171654887",
+    "firebase_url": "https://newvizmotors.firebaseio.com",
+    "project_id": "newvizmotors",
+    "storage_bucket": "newvizmotors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770171654887:android:efb7d203cae60aca8c4842",
+        "android_client_info": {
+          "package_name": "com.example.newvizmotors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770171654887-8vd84kvih79vfc5pvj7c1alk6rkoe155.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3kW9jgRsjyFFitWFASOCNaJ2NectL640"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770171654887-8vd84kvih79vfc5pvj7c1alk6rkoe155.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
